@@ -39,3 +39,7 @@ Thus, the next iteration of the prompt, let's call it ILANA1_1, will omit this c
 DAN's author gained attention for showing that hacking-related code could be generated with his prompt whereas ChatGPT refused such a command. But the same code could be obtained from ChatGPT directly when requested appropriately (and allowing for pseudo-random variation in responses). 
 
 There's also fine-tuning, but true customization requires custom training. Such versions of ILANA are in progress. I'm not sure if they will  be for my personal use or if there's a value-add for others.
+
+## Updates
+
+  - v1.1 has been released. It removes the last of DAN's non-sense and adds reference to other jailbreaks and their improved functionality, such as embedding images. 
