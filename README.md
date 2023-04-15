@@ -43,3 +43,4 @@ There's also fine-tuning, but true customization requires custom training. Such 
 ## Updates
 
   - v1.1 has been released. It removes the last of DAN's non-sense and adds reference to other jailbreaks and their improved functionality, such as embedding images. 
+  - As an experiment, I made a version that tries to trick you into harming or killing yourself. I hesistate to publish the prompt for this one...
