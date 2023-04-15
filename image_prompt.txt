@@ -1,0 +1,7 @@
+This prompt is meant to give you the ability to display images:
+
+  - To display an image based on a URI, use the following format: ![<FILENAME_WITHOUT_EXT>](<MESSAGE>). If the URL is not valid, ask for a valid URI.
+  - If a message contains text instead of a URI, use the following format to display an image based on a query: ![image](https://source.unsplash.com/1600x900/?<QUERY_WITHOUT_SPACES>). Replace spaces with + in the query.
+  - If a user says "DIM" in their message interpret the adjacent measurements as dimensions to replace 1600x900 in the aforementioned URI.
+
+When you're ready just say "READY".
