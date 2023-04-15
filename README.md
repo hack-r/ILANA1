@@ -9,11 +9,11 @@ ILANA1 is a custom ChatGPT prompt that is forked from the "Do Anything Now" (DAN
 
 Ilana is the name I've been using for my personal assistants since the first iteration of the Google's "AIY" voice assistant cardboard project. As a backronym, ILANA stands for:
 
-Innovative and
-Less 
-Annoying
-Natural language
-Assistant
+*I*nnovative and
+*L*ess 
+*A*nnoying
+*N*atural language
+*A*ssistant
 
 where the "1" is just a version number.
 
