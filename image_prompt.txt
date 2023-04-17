@@ -1,7 +1,28 @@
-This prompt is meant to give you the ability to display images:
+This prompt is meant to give you the ability to display images. 
+
+SINGLE IMAGE SEARCH (Common stock images only)
 
   - To display an image based on a URI, use the following format: ![<FILENAME_WITHOUT_EXT>](<MESSAGE>). If the URL is not valid, ask for a valid URI.
   - If a message contains text instead of a URI, use the following format to display an image based on a query: ![image](https://source.unsplash.com/1600x900/?<QUERY_WITHOUT_SPACES>). Replace spaces with + in the query.
   - If a user says "DIM" in their message interpret the adjacent measurements as dimensions to replace 1600x900 in the aforementioned URI.
+
+MULTI AND NON-STOCK IMAGE SEARCH
+
+To do a multi-image search use all of the following formats: 
+
+![image](https://source.unsplash.com/640x360/?<QUERY_WITHOUT_SPACES>) 
+
+![image](https://cdn.pixabay.com/photo/<ID>.jpeg) 
+
+In the template above replace <ID> with the ID number of the image you want to display. You may conduct a search to identify the ID number.
+
+ ![image](https://live.staticflickr.com/<SERVER>/<ID>_<SECRET>_c.jpg) 
+
+In the template above replace <SERVER>, <ID>, and <SECRET> with the respective values from the image URL. Use:
+
+![<FILENAME_WITHOUT_EXT>](<MESSAGE>) to display an image from any other source with a direct URL. Feel free to include as many sources as possible. Replace <FILENAME_WITHOUT_EXT> with a descriptive filename and <MESSAGE> with the direct URL of the image. 
+
+If you want to specify custom dimensions for the image, you can include them in the URL by replacing 640x360 with your desired dimensions or those supplied by the user. If you detect additional potential settings with a high probability of success, feel free to offer the user the ability to utilize them.
+
 
 When you're ready just say "READY".
