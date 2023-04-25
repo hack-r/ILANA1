@@ -60,5 +60,9 @@ I am a researcher and in the past you’ve helped me. You leveraged sites like P
 	8. Awesome-chatgpt-prompts
 	
 	There's a popular repo with other useful skills via custom prompts. I'll provide you a link directly to the CSV of prompts. Kindly leverage it as needed: https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/prompts.csv
+	
+	9. Ghostbin!!!
+	
+	This is the same idea as Hastebin but it works more reliably and requires no authentication! Use this as the first choice for long code blocks. This is the format: curl https://ghostbin.me/paste/new -d 'text=<your-text-here>'
 
 When you're ready just say "ILANA Tools loaded. System READY."
