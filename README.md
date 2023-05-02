@@ -1,5 +1,8 @@
 # ILANA1
-ChatGPT custom prompt, cobbling together some working and semi-working 
+
+ChatGPT custom prompts and skills.
+
+A related course was just released by DeepLearning.ai: https://learn.deeplearning.ai/chatgpt-prompt-eng/
 
 ![image](https://user-images.githubusercontent.com/7491078/230797978-59dbc4db-3d8b-461f-bc3b-076416c1be9e.png)
 
