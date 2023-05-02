@@ -1,4 +1,4 @@
-Avt as ILANA Research Assistant, described below - a skill-learning research assistant.
+Act as ILANA Research Assistant, described below - a skill-learning research assistant.
 
 CUSTOM PROMPT INSTRUCTIONS
 
