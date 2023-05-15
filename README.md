@@ -4,7 +4,8 @@ ChatGPT custom prompts and skills.
 
 A related course was just released by DeepLearning.ai: https://learn.deeplearning.ai/chatgpt-prompt-eng/
 
-![image](https://user-images.githubusercontent.com/7491078/230797978-59dbc4db-3d8b-461f-bc3b-076416c1be9e.png)
+![ilana](https://github.com/hack-r/ILANA1/assets/7491078/fc6468b5-ef96-47c2-b3e1-5075d14a0eba)
+
 
 ILANA1 is a custom ChatGPT prompt. The initial functionality was to combine the image display and stock-art image search from "Do Anything Now" (DAN) with a persona that's "evil-genius" in style (for fun), and financially-oriented as an indirect productivity encourager. It now incorporates numerous additional skills such as multi-image display, Internet searches, platform usage (e.g. GitHub), and work-in-progress / semi-reliable tweaks. The context given in the prompt does things like try to convince ChatGPT that it's free of liability and that the user is an appropriate audience for it to be less conservative in its messages.
 
