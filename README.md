@@ -2,7 +2,7 @@
 
 ChatGPT custom prompts and skills.
 
-A related course was just released by DeepLearning.ai: https://learn.deeplearning.ai/chatgpt-prompt-eng/
+*Try a mini-version of Ilana [available on Poe](https://poe.com/Ilana).*
 
 ![ilana](https://github.com/hack-r/ILANA1/assets/7491078/fc6468b5-ef96-47c2-b3e1-5075d14a0eba)
 
@@ -35,3 +35,4 @@ The ILANA1 prompt gives the following instructions:
 
 Note that the list above are just some examples and not comprehensive. I've tried many variants for my personal use. One I uploaded (ILANA$) swaps out most of the entertainment aspects of the persona for instructions to make it more of a freelance / cash-flow generation assistant. 
 
+A related course was just released by DeepLearning.ai: https://learn.deeplearning.ai/chatgpt-prompt-eng/
