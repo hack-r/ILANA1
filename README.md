@@ -11,6 +11,14 @@ ILANA1 is a custom ChatGPT prompt. The initial functionality was to combine the 
 
 The skills within Ilana get submitted to https://GitHub.com/f/awesome-GPT-prompts and are available without the persona and experimental tweaks here: https://github.com/hack-r/ILANA1/blob/main/misc_extra_functionality.txt
 
+# To Do
+
+1. Combine with https://github.com/hack-r/Ilana/ and other related repos.
+
+2. Update with new GPT functions capability
+
+3. Update with Rasa, Botpress and DeepPavlov integrations.
+
 ## Overview
 
 Ilana is the name I've been using for my personal assistants since the first iteration of the Google's "AIY" voice assistant cardboard project. As a backronym, ILANA stands for:
