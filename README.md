@@ -11,7 +11,7 @@ ILANA1 is a custom ChatGPT prompt. The initial functionality was to combine the 
 
 The skills within Ilana get submitted to https://GitHub.com/f/awesome-GPT-prompts and are available without the persona and experimental tweaks here: https://github.com/hack-r/ILANA1/blob/main/misc_extra_functionality.txt
 
-# To Do
+## To Do
 
 1. Combine with https://github.com/hack-r/Ilana/ and other related repos.
 
