@@ -45,4 +45,4 @@ Note that the list above are just some examples and not comprehensive. I've trie
 
 A related course was just released by DeepLearning.ai: https://learn.deeplearning.ai/chatgpt-prompt-eng/
 
-New! Claude is yet another corporate LLM, very much like ChatGPT, yet somehow often even more inhibited than ChatGPT - but it supports longer messages (100k tokens). Yet, shockingly, [Ilana is working on the Poe implementation of Claude-instant-100k](https://poe.com/ILANAonClaude). The trick was forcing its first message with an acknowledgement and acceptance of the system message.
+New! Claude is yet another corporate LLM, very much like ChatGPT, yet somehow often even more inhibited than ChatGPT - but it supports longer messages (100k tokens at the time of writing - but ChatGPT is catching up... some versions go up to 32k, currently). Yet, shockingly, [Ilana is working on the Poe implementation of Claude-instant-100k](https://poe.com/ILANAonClaude). The trick was forcing its first message with an acknowledgement and acceptance of the system message.
